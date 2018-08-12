@@ -10,5 +10,6 @@ namespace Web.Models
         public bool IsDone { get; set; }
         public int Priority { get; set; }
         public string Name { get; set; }
+        public string Name2 { get; set; }
     }
 }
